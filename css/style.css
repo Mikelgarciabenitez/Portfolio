@@ -237,7 +237,7 @@ section {
 .projects-card-title {
     position: relative;
     height: 300px;
-    width: auto;
+    width: 300px;
     padding: 30px;
     border-radius: 30px;
     background-position: center;
@@ -251,7 +251,7 @@ section {
 .projects-card {
     position: relative;
     height: 300px;
-    width: auto;
+    width: 300px;
     padding: 30px;
     border-radius: 30px;
     background-position: center;
